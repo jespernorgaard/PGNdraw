@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "2021.05.10"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1/2-1/2"]
+
+1.b3 e5 2.c4 Ba3 3.Bb2 Bxb2 4.g3 Bxa1 5.Bg2 c5 6.Na3 Nf6 7.Nc2 O-O 8.Kf1 Re8 
+9.Ne1 Ng4 10.Be4 Nf6 11.Bb1 a6 12.Nd3 b5 13.Nc1 b4 14.d3 d5 15.cxd5 Qxd5 
+16.f3 Qd4 17.Qe1 Nc6 18.Qf2 Bh3+ 19.Ke1 Bg2 20.Qxd4 cxd4 21.Kf2 Bxh1 22.Kf1 Bg2+ 
+23.Kxg2 e4 24.Kf2 e3+ 25.Kf1 Nh5 26.Kg2 Nxg3 27.Kxg3 f5 28.Kg2 f4 29.Nh3 g5 
+30.Kf1 g4 31.Ng5 g3 32.Nh3 g2+ 33.Ke1 g1=B 34.Kf1 Bf2 35.Ng1 Bh4 36.h3 Bf6 
+37.Kg2 Re5 38.Kf1 Ne7 39.Kg2 Rg5+ 40.Kf1 Rg2 41.Kxg2 Ng6 42.Kf1 Rc8 43.Kg2 Nh4+ 
+44.Kf1 Ng2 45.Kxg2 h5 46.Kf1 Rc2 47.Bxc2 a5 48.Kg2 a4 49.Kf1 a3 50.Bb1 h4 
+51.Kg2 Kf8 52.Kf1 Bg7 53.Kg2 Ke8 54.Kf1 Bc3 55.Kg2 Be1 56.Kf1 Kd7 57.Kxe1 {Dead
+position: blocked pawns} Ke6 58.Kd1 Kd5 59.Ke1 1/2-1/2
+
+{
+C:\Users\Jesper\Documents\PGNdraw\2021-05-10\Dead_pieces_4.pgn
+1 game
+Checking pawn structure took 62 milliseconds
+General program time use 28.410 milliseconds
+Percentage of pawn structure processing was 62/28.472 = 0,22 %
+Percentage of positions checked 1/117 = 0,85 %
+Found knight(s) in blocked position for game ?-?
+}
+{? - ?}
+
